@@ -1,0 +1,107 @@
+sub_code,sub_name,sub_credits
+22MAT101,Engineering Mathematics,3
+22PHY101,Physics for Engineers,4
+22EEE101,Basic Electrical and Electronics Engineering,3
+22CSE101,Computational Thinking & Problem Solving,3
+22MAT102,Discrete Mathematics,4
+22CSP101,Experiental Learning Project,3
+22CHE101,Chemistry for Sustainable Future,4
+22MAT203,Probability and Random variables,3
+22CSE202,Data Structures and Algorithms,3
+22CSE203,Object Oriented Programming,3
+22ENG201,English for Engineers,3
+22CSP202,Societal Project,3
+22DEV101,Ethics & Moral Reasoning in a VUCA World,3
+22CSE303,Computer Organization and  Architecture,3
+22CSE304,Design & Analysis of Algorithms,3
+22CSE305,Data Bases Management Systems,4
+22CSP303,Conceptual Project - 1,3
+22CHN301,Linear Programming,3
+22CSE406,Artificial and Computational Intelligence,4
+22CSE407,Operating System,3
+22CSE408,Computer Networks,4
+22CSE409,Web Technologies,3
+22CSP404,Conceptual Project - 2,3
+22CHN402,Software Security,3
+22CSE510,Software Engineering,3
+22CSE511,Theory of Automata,3
+22CSP505,Applicative Project - 1,3
+22CHN503,Optimization Techniques,3
+22CSE612,Full Stack Development,3
+22CSE613,Data analytics and Mining,4
+22CSP606,Applicative Project - 2,3
+22CHN604,Compiler Design,3
+22CSS001,Seminar - 1,4
+22CSR001,REC Contributions - 1,3
+22CSP707,Capstone -1,4
+22CSS002,Seminar - 2,3
+22CSR002,REC Contributions - 2,3
+22CSP808,Capstone - 2,3
+22CSE314,Artificial and Computational Intelligence,3
+22CSE415,Neural Networks,3
+22CSE416,Intelligent Machines,3
+22CHN305,Image Processing,3
+22CHN406,Optimization Techniques,3
+22CSE517,Machine Learning,4
+22CSE619,Deep Learning,3
+22CSE518,Data Mining,3
+22CSE620,Natural Language Processing,4
+22CHN507,Pattern Recognition,3
+22CHN608,Reinforcement Learning,4
+22CSE425,Cryptography,3
+22CSE426,Digital Forensics,3
+22CSE527,Cybersecurity Incident Handling,3
+22CSE629,Cyber-Threat Intelligence,3
+22CSE528,Network Defense for Cybersecurity,3
+22CSE630,Ethical Haking,3
+22CHN313,Hardware security,3
+22CHN402,Software Security,3
+22CHN515,Cloud Security,4
+22CHN616,Big data Security,3
+22CSE421,Data Sciences and Visualization,3
+22CSE409,Web Technologies,4
+22CSE522,Data Engineering and Modeling,3
+22CSE623,Applied Statistics,4
+22CSE518,Data Mining,3
+22CSE624,Big data analytics,3
+22PHY101,Physics for Engineers,3
+22EEE101,Basic Electrical and Electronics Engineering,3
+22CSE101,"Computational Thinking and
+Problem Solving",3
+22MTE101,Engineering Graphics,3
+22ECP001,Experiental Learning Project,3
+22CHE201,Chemistry for Sustainable Future,3
+22ENG201,English for Engineers,4
+22CSE202,Data Structures and Algorithms,3
+22MTE102,"CADM (Computer Aided
+Design and Manufacturing)",3
+22ECP002,Societal Project,4
+22MTE201,Thermodynamics,3
+22ECE301,Switching Theory and Logic Design,4
+22MTP003,Conceptual project-1,3
+22ECH301,Convex optimization,3
+22ECE403,"Microprocessors, Microcontrollers and its Applications",3
+22MTE202,Smart Materials and Structures,3
+22ECE404,Operating System and Networking,3
+22MTP004,Conceptual Project-2,3
+22MTH401,"Design of Mechatronics
+Systems",3
+22EEE502,Power Electronics and Drives,3
+22MTE301,"Applied hydraulics and
+Pneumatics",4
+22MTP005,Applicative Project - 1,3
+22MTH502,MEMS,3
+22EEE402,Control systems,4
+22MTE302,Design of Machine Elements,3
+22MTP006,Applicative Project - 2,4
+22ECH604,HDL based Digital Design with PLDs,3
+22MTE401,Modern Robotics,3
+22MTE402,"The Mechatronics Revolution
+Fundamentals and Core Concepts",3
+22MTS001,Seminar - 1,3
+22MTR001,REC Contributions - 1,3
+22MTP007,Capstone -1,3
+22MTE403,Computer Aided Process Planning,3
+22MTS002,Seminar - 2,3
+22MTR002,REC Contributions - 2,4
+22MTP008,Capstone - 2,3

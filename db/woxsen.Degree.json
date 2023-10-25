@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "651be9773e152121f73b0a53"
+  },
+  "Branch": "B.Tech-AIML"
+},
+{
+  "_id": {
+    "$oid": "651be9773e152121f73b0a54"
+  },
+  "Branch": "B.Tech-CSE"
+},
+{
+  "_id": {
+    "$oid": "651be9773e152121f73b0a55"
+  },
+  "Branch": "B.Tech-DS"
+},
+{
+  "_id": {
+    "$oid": "651be9773e152121f73b0a56"
+  },
+  "Branch": "B.Tech-BIC"
+},
+{
+  "_id": {
+    "$oid": "651be9773e152121f73b0a57"
+  },
+  "Branch": "B.Tech-MTE"
+},
+{
+  "_id": {
+    "$oid": "651be9773e152121f73b0a58"
+  },
+  "Branch": "BCA"
+}]

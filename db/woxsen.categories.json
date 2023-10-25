@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9c5"
+  },
+  "CName": "Major Core"
+},
+{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9c6"
+  },
+  "CName": "Minor Stream"
+},
+{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9c7"
+  },
+  "CName": "Multidisciplinary courses"
+},
+{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9c8"
+  },
+  "CName": "Ability enhancement courses"
+},
+{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9c9"
+  },
+  "CName": "Skill enhancement courses"
+},
+{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9ca"
+  },
+  "CName": "Value-added Courses"
+},
+{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9cb"
+  },
+  "CName": "Summer Internship Projects"
+},
+{
+  "_id": {
+    "$oid": "651e4f63ec0d7137102bd9cc"
+  },
+  "CName": "Research Projects and dissertations"
+}]
